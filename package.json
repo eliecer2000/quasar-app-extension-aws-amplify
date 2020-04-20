@@ -1,0 +1,25 @@
+{
+  "name": "quasar-app-extension-aws-amplify",
+  "version": "0.0.1",
+  "description": "Integrate AWS Amplify and Quasar",
+  "author": "Eliezer Rangel <eliecer2000@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eliecer2000/quasar-app-extension-aws-amplify.git"
+  },
+  "bugs": "https://github.com/cuatromedios/quasar-app-extension-aws-amplify/issues",
+  "homepage": "https://github.com/cuatromedios/quasar-app-extension-aws-amplify",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "dependencies": {
+    "aws-amplify": "^3.0.8"
+  }
+}
