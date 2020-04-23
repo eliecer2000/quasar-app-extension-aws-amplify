@@ -6,5 +6,5 @@
  */
 
 module.exports = function (api) {
-  //
-}
+  api.onExitLog("Thanks for installing AWS Amplify extension");
+};
